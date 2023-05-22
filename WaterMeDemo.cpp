@@ -68,6 +68,8 @@ void loop(){
     sendDataPrevMillis = millis();
     int i = 1;
 
+//Finding number of ESP32 algorithm
+
     while(name == -1){
       String myPath = "/test" + String(i) + "/code" ;
        
