@@ -1,5 +1,5 @@
 # 2023_Summer_HCI
-Data writing, reading beside Esp32 and Firebase.
+Data writing, reading beside ESP32 and Firebase.
 
 if you have a question, contact me by
 > wngus3404@naver.com
