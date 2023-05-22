@@ -1,6 +1,9 @@
 # 2023_Summer_HCI
 Data writing, reading beside Esp32 and Firebase.
 
+if you have a question, contact me by
+> wngus3404@naver.com
+
 # Comment
 It is a code that measures the soil moisture of plants, moisture in the surrounding atmosphere, and temperature and stores them in Firebase Realtime DB.
 Locate the most recently stored number in the RTDB, and save the +1 value from that number as ESP32's own number.
