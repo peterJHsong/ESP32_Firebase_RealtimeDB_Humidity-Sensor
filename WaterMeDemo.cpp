@@ -6,7 +6,7 @@
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 
-// WiFi, Firebase database, Pin Settings
+// WiFi, Firebase database, Pin Setting
 #define WIFI_SSID "my_SSID"
 #define WIFI_PASSWORD "my_PSWD"
 #define API_KEY "my_API"
